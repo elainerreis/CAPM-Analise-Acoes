@@ -20,11 +20,14 @@ O objetivo foi calcular o risco e o retorno excedente de ativos em relação ao 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.11**
-- **Pandas** – Manipulação de dados
+
+- **Python 3.10**
+- **Pandas** – Manipulação e análise de dados
 - **NumPy** – Cálculos matemáticos
 - **Matplotlib** e **Seaborn** – Visualização gráfica
-- **Statsmodels** – Estimação de regressão linear (CAPM)
+- **Statsmodels** – Estimação do modelo CAPM via regressão linear
+- **yfinance** – Coleta de dados financeiros de mercado
+
 
 ## 📈 Resultados
 
